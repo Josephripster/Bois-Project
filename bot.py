@@ -21,3 +21,4 @@ async def hello(ctx):
     await ctx.send('Ready to climb! What champion are we checking?')
 
 bot.run(TOKEN)
+print("hi joby")
